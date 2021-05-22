@@ -18,6 +18,5 @@ def portfolio_cost(filename):
     return total_cost    
 
 
-
 cost = portfolio_cost('Data/portfolio.csv')
 print('Total cost:', cost)
